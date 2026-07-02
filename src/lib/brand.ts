@@ -5,7 +5,7 @@ export interface BrandConfig {
 }
 
 export const currentBrand: BrandConfig = {
-  name: "SeniorTrack Demo", // Aquí pondremos el nombre del cliente en el futuro
+  name: "CALUCE", // Aquí pondremos el nombre del cliente en el futuro
   logoUrl: "/logo.png",      // La ruta al logo que usará la app
   supportEmail: "soporte@seniortrack.com",
 };
